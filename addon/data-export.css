@@ -133,8 +133,8 @@ h1 {
 }
 #spinner {
   position: absolute;
-  left: -15px;
-  top: -15px;
+  right: 0px;
+  top: 0px;
 }
 #result-area  h1 {
   margin-right: 1em;
